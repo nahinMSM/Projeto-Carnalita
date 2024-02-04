@@ -1,0 +1,13 @@
+@media (max-width: 1000px) {
+  .central {
+    display: none;
+  }
+  p {
+    display: block;
+    font-family: verdana;
+    font-size: 18px;
+    color: white;
+    text-align: center;
+    margin-top: 70px;
+  }
+}

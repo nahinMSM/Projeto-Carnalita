@@ -7,7 +7,7 @@ body {
     position: absolute;
     width: 800px;
     height: 100vh;
-    background-image: url(img/BACGROUND2.jpg);
+    background-image: url(../img/BACGROUND2.jpg);
     background-repeat: no-repeat;
     top: 0;
 }
@@ -47,6 +47,10 @@ h2 {
     margin-top: 40px;
     text-align: center;
     line-height: 60px;
+}
+
+p {
+    display: none;
 }
 
 .object {
@@ -122,7 +126,6 @@ h2 {
 }
 
 .footer img {
-    /* position: relative; */
     float: right;
     height: 55px;
     width: auto;
