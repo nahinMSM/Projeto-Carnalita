@@ -1,4 +1,4 @@
-Projeto Carnalita: Uma Transição de Adobe Flash para Javascript
+## Projeto Carnalita: Uma Transição de Adobe Flash para Javascript
 
 Em 2011, fui desafiado a desenvolver um projeto inovador para a Vale do Rio Doce, denominado "Projeto Carnalita". O objetivo era criar uma apostila eletrônica interativa para facilitar o aprendizado e a compreensão de processos específicos na indústria de mineração. Naquela época, optei por utilizar a tecnologia Adobe Flash com ActionScript 3.0 para desenvolver uma experiência rica e dinâmica.
 
@@ -13,3 +13,6 @@ Agora, os usuários podem acessar o conteúdo do Projeto Carnalita de forma fác
 Além disso, a atualização para Javascript permitiu a integração de elementos mais interativos, como gráficos dinâmicos e animações suaves, enriquecendo ainda mais a experiência do usuário. A nova versão do Projeto Carnalita não apenas preserva o valor educacional original, mas também o aprimora para atender aos padrões contemporâneos de desenvolvimento web.
 
 Essa jornada de transição do Adobe Flash para Javascript no Projeto Carnalita reflete não apenas uma adaptação tecnológica, mas também um compromisso contínuo com a inovação e a entrega de conteúdo educacional de alta qualidade. Estou confiante de que essa evolução contribuirá significativamente para a disseminação efetiva do conhecimento na indústria de mineração, consolidando o Projeto Carnalita como uma referência duradoura.
+
+![](layout/captura-de-tela-1.png)
+![](layout/captura-de-tela-2.png)
